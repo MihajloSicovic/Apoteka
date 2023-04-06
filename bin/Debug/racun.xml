@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="racun" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="racun">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="racun_id" type="xs:int" minOccurs="0" />
+                <xs:element name="id_magacina" type="xs:int" minOccurs="0" />
+                <xs:element name="cena_s_popustom" type="xs:double" minOccurs="0" />
+                <xs:element name="kolicina" type="xs:int" minOccurs="0" />
+                <xs:element name="id_trans" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <racun>
+    <racun_id>28</racun_id>
+    <id_magacina>26</id_magacina>
+    <cena_s_popustom>399.992</cena_s_popustom>
+    <kolicina>3</kolicina>
+    <id_trans>27</id_trans>
+  </racun>
+</NewDataSet>

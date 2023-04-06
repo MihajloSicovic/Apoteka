@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dostava" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dostava">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="dostava_id" type="xs:int" minOccurs="0" />
+                <xs:element name="datum" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="primljeno" type="xs:boolean" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dostava>
+    <dostava_id>1</dostava_id>
+    <datum>2023-04-01T00:00:00+02:00</datum>
+    <primljeno>false</primljeno>
+  </dostava>
+  <dostava>
+    <dostava_id>2</dostava_id>
+    <datum>2023-04-03T00:00:00+02:00</datum>
+    <primljeno>true</primljeno>
+  </dostava>
+  <dostava>
+    <dostava_id>3</dostava_id>
+    <datum>2023-04-06T00:00:00+02:00</datum>
+    <primljeno>false</primljeno>
+  </dostava>
+  <dostava>
+    <dostava_id>4</dostava_id>
+    <datum>2023-04-04T00:00:00+02:00</datum>
+    <primljeno>false</primljeno>
+  </dostava>
+  <dostava>
+    <dostava_id>5</dostava_id>
+    <datum>2023-04-02T00:00:00+02:00</datum>
+    <primljeno>true</primljeno>
+  </dostava>
+</NewDataSet>

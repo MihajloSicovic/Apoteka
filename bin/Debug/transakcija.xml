@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="transakcija" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="transakcija">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="trans_id" type="xs:int" minOccurs="0" />
+                <xs:element name="korisceni_poeni" type="xs:int" minOccurs="0" />
+                <xs:element name="datum_obrade" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="id_kartice" type="xs:int" minOccurs="0" />
+                <xs:element name="id_kupca" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <transakcija>
+    <trans_id>27</trans_id>
+    <korisceni_poeni>10</korisceni_poeni>
+    <datum_obrade>2023-04-06T00:00:00+02:00</datum_obrade>
+    <id_kartice>1</id_kartice>
+    <id_kupca>1</id_kupca>
+  </transakcija>
+</NewDataSet>

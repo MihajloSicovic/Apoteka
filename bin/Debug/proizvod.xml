@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="proizvod" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="proizvod">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="proizvod_id" type="xs:int" minOccurs="0" />
+                <xs:element name="naziv" type="xs:string" minOccurs="0" />
+                <xs:element name="cena" type="xs:double" minOccurs="0" />
+                <xs:element name="lek" type="xs:boolean" minOccurs="0" />
+                <xs:element name="podvrsta" type="xs:string" minOccurs="0" />
+                <xs:element name="opis" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <proizvod>
+    <proizvod_id>1</proizvod_id>
+    <naziv>Pampers pelene</naziv>
+    <cena>499.99</cena>
+    <lek>false</lek>
+    <podvrsta>bebi</podvrsta>
+    <opis>10 kom.</opis>
+  </proizvod>
+  <proizvod>
+    <proizvod_id>2</proizvod_id>
+    <naziv>Xyzal</naziv>
+    <cena>239.99</cena>
+    <lek>true</lek>
+    <podvrsta>levocetirizin</podvrsta>
+    <opis>5 mg, 10 film tableta</opis>
+  </proizvod>
+  <proizvod>
+    <proizvod_id>3</proizvod_id>
+    <naziv>ASPIRINprotect</naziv>
+    <cena>159.99</cena>
+    <lek>true</lek>
+    <podvrsta>acetilslicilna kis.</podvrsta>
+    <opis>100mg, 28 gastrorezistentnih tableta</opis>
+  </proizvod>
+  <proizvod>
+    <proizvod_id>4</proizvod_id>
+    <naziv>Femozol</naziv>
+    <cena>179.99</cena>
+    <lek>true</lek>
+    <podvrsta>letrozol</podvrsta>
+    <opis>2.5mg, 30 film tableta</opis>
+  </proizvod>
+</NewDataSet>

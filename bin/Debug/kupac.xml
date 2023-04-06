@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="kupac" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="kupac">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="kupac_id" type="xs:int" minOccurs="0" />
+                <xs:element name="ime" type="xs:string" minOccurs="0" />
+                <xs:element name="prezime" type="xs:string" minOccurs="0" />
+                <xs:element name="datum_rodjenja" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="email" type="xs:string" minOccurs="0" />
+                <xs:element name="sifra" type="xs:string" minOccurs="0" />
+                <xs:element name="kontakt" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <kupac>
+    <kupac_id>1</kupac_id>
+    <ime>Miloš</ime>
+    <prezime>Pušić</prezime>
+    <datum_rodjenja>1964-05-13T00:00:00+02:00</datum_rodjenja>
+    <email>milos.pusic@gmail.com</email>
+    <sifra>Baze=Hleb</sifra>
+    <kontakt>0615454786</kontakt>
+  </kupac>
+  <kupac>
+    <kupac_id>2</kupac_id>
+    <ime>Iris</ime>
+    <prezime>Janković</prezime>
+    <datum_rodjenja>1968-11-11T00:00:00+01:00</datum_rodjenja>
+    <email>iris.jankovic@prvabeogim.edu</email>
+    <sifra>Aristotel&lt;3</sifra>
+  </kupac>
+</NewDataSet>

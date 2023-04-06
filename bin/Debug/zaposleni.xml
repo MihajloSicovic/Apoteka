@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="zaposleni" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="zaposleni">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="zaposleni_id" type="xs:int" minOccurs="0" />
+                <xs:element name="ime" type="xs:string" minOccurs="0" />
+                <xs:element name="prezime" type="xs:string" minOccurs="0" />
+                <xs:element name="jmbg" type="xs:string" minOccurs="0" />
+                <xs:element name="adresa" type="xs:string" minOccurs="0" />
+                <xs:element name="broj_racuna" type="xs:string" minOccurs="0" />
+                <xs:element name="email" type="xs:string" minOccurs="0" />
+                <xs:element name="sifra" type="xs:string" minOccurs="0" />
+                <xs:element name="uloga" type="xs:int" minOccurs="0" />
+                <xs:element name="id_lokala" type="xs:int" minOccurs="0" />
+                <xs:element name="id_menadzera" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <zaposleni>
+    <zaposleni_id>1</zaposleni_id>
+    <ime>Mihajlo</ime>
+    <prezime>Sićović</prezime>
+    <jmbg>4556678765456</jmbg>
+    <adresa>Milesevska 66</adresa>
+    <broj_racuna>78329741</broj_racuna>
+    <email>mihajlo.sicovic@prvabeogim.edu</email>
+    <sifra>JaVolimBaze!</sifra>
+    <uloga>0</uloga>
+    <id_lokala>1</id_lokala>
+  </zaposleni>
+  <zaposleni>
+    <zaposleni_id>2</zaposleni_id>
+    <ime>Dusica</ime>
+    <prezime>Tasic</prezime>
+    <adresa>Paunova 79</adresa>
+    <email>dusica.tasic@gmail.com</email>
+    <sifra>ObozavamBaze!!!!</sifra>
+    <uloga>1</uloga>
+    <id_lokala>2</id_lokala>
+  </zaposleni>
+  <zaposleni>
+    <zaposleni_id>24</zaposleni_id>
+    <ime>Vojislav</ime>
+    <prezime>Radovic</prezime>
+    <adresa>Dvadesetdrugog marta 39</adresa>
+    <email>vojislav.radovic@gmail.com</email>
+    <sifra>MrzimBaze:&lt;</sifra>
+    <uloga>2</uloga>
+    <id_lokala>2</id_lokala>
+    <id_menadzera>2</id_menadzera>
+  </zaposleni>
+  <zaposleni>
+    <zaposleni_id>25</zaposleni_id>
+    <ime>Milan</ime>
+    <prezime>Nešković</prezime>
+    <adresa>Internacionalnih brigada 89</adresa>
+    <email>milan.neskovic@gmail.com</email>
+    <sifra>JaVolimDaStojim</sifra>
+    <uloga>2</uloga>
+    <id_lokala>3</id_lokala>
+    <id_menadzera>1</id_menadzera>
+  </zaposleni>
+</NewDataSet>

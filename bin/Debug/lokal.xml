@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="lokal" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="lokal">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="lokal_id" type="xs:int" minOccurs="0" />
+                <xs:element name="adresa" type="xs:string" minOccurs="0" />
+                <xs:element name="kontakt" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <lokal>
+    <lokal_id>1</lokal_id>
+    <adresa>Cara Dusana 61</adresa>
+    <kontakt>0636324567</kontakt>
+  </lokal>
+  <lokal>
+    <lokal_id>2</lokal_id>
+    <adresa>Timocka 27</adresa>
+    <kontakt>0657879777</kontakt>
+  </lokal>
+  <lokal>
+    <lokal_id>3</lokal_id>
+    <adresa>Vojislava Ilica 69</adresa>
+    <kontakt>0112728398</kontakt>
+  </lokal>
+</NewDataSet>

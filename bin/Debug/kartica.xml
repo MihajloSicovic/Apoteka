@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="kartica" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="kartica">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="kartica_id" type="xs:int" minOccurs="0" />
+                <xs:element name="broj_kartice" type="xs:string" minOccurs="0" />
+                <xs:element name="poeni" type="xs:double" minOccurs="0" />
+                <xs:element name="tip_kartice" type="xs:int" minOccurs="0" />
+                <xs:element name="id_kupca" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <kartica>
+    <kartica_id>1</kartica_id>
+    <broj_kartice>123</broj_kartice>
+    <poeni>182.8008</poeni>
+    <tip_kartice>1</tip_kartice>
+    <id_kupca>1</id_kupca>
+  </kartica>
+</NewDataSet>

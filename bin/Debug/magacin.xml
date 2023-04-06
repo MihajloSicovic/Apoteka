@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="magacin" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="magacin">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="magacin_id" type="xs:int" minOccurs="0" />
+                <xs:element name="id_dostave" type="xs:int" minOccurs="0" />
+                <xs:element name="id_leka" type="xs:int" minOccurs="0" />
+                <xs:element name="rok_trajanja" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="u_magacinu" type="xs:int" minOccurs="0" />
+                <xs:element name="id_lokala" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <magacin>
+    <magacin_id>4</magacin_id>
+    <id_dostave>1</id_dostave>
+    <id_leka>4</id_leka>
+    <u_magacinu>3</u_magacinu>
+    <id_lokala>2</id_lokala>
+  </magacin>
+  <magacin>
+    <magacin_id>6</magacin_id>
+    <id_dostave>1</id_dostave>
+    <id_leka>1</id_leka>
+    <u_magacinu>2</u_magacinu>
+    <id_lokala>2</id_lokala>
+  </magacin>
+  <magacin>
+    <magacin_id>24</magacin_id>
+    <id_dostave>2</id_dostave>
+    <id_leka>2</id_leka>
+    <u_magacinu>5</u_magacinu>
+    <id_lokala>1</id_lokala>
+  </magacin>
+  <magacin>
+    <magacin_id>26</magacin_id>
+    <id_dostave>2</id_dostave>
+    <id_leka>1</id_leka>
+    <u_magacinu>4</u_magacinu>
+    <id_lokala>1</id_lokala>
+  </magacin>
+  <magacin>
+    <magacin_id>27</magacin_id>
+    <id_dostave>3</id_dostave>
+    <id_leka>3</id_leka>
+    <u_magacinu>3</u_magacinu>
+    <id_lokala>1</id_lokala>
+  </magacin>
+</NewDataSet>

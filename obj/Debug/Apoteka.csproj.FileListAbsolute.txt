@@ -1,0 +1,58 @@
+C:\Users\Mihajlo\Documents\Mihajlo\4\Baze podataka\Apoteka\bin\Debug\Apoteka.exe.config
+C:\Users\Mihajlo\Documents\Mihajlo\4\Baze podataka\Apoteka\bin\Debug\Apoteka.exe
+C:\Users\Mihajlo\Documents\Mihajlo\4\Baze podataka\Apoteka\bin\Debug\Apoteka.pdb
+C:\Users\Mihajlo\Documents\Mihajlo\4\Baze podataka\Apoteka\obj\Debug\Apoteka.csproj.AssemblyReference.cache
+C:\Users\Mihajlo\Documents\Mihajlo\4\Baze podataka\Apoteka\obj\Debug\Apoteka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mihajlo\Documents\Mihajlo\4\Baze podataka\Apoteka\obj\Debug\Apoteka.Properties.Resources.resources
+C:\Users\Mihajlo\Documents\Mihajlo\4\Baze podataka\Apoteka\obj\Debug\Apoteka.Ulogovanje.resources
+C:\Users\Mihajlo\Documents\Mihajlo\4\Baze podataka\Apoteka\obj\Debug\Apoteka.csproj.GenerateResource.cache
+C:\Users\Mihajlo\Documents\Mihajlo\4\Baze podataka\Apoteka\obj\Debug\Apoteka.csproj.CoreCompileInputs.cache
+C:\Users\Mihajlo\Documents\Mihajlo\4\Baze podataka\Apoteka\obj\Debug\Apoteka.exe
+C:\Users\Mihajlo\Documents\Mihajlo\4\Baze podataka\Apoteka\obj\Debug\Apoteka.pdb
+C:\Users\Mihajlo\Documents\Mihajlo\4\Baze podataka\Apoteka\obj\Debug\Apoteka.GlavnaKupac.resources
+C:\Users\Mihajlo\Documents\Mihajlo\4\Baze podataka\Apoteka\obj\Debug\Apoteka.Promeni.resources
+C:\Users\Mihajlo\Documents\Mihajlo\4\Baze podataka\Apoteka\obj\Debug\Apoteka.NapraviNalog.resources
+C:\Users\Mihajlo\Documents\Mihajlo\4\Baze podataka\Apoteka\obj\Debug\Apoteka.Pretraga.resources
+C:\Users\Mihajlo\Documents\Mihajlo\4\Baze podataka\Apoteka\obj\Debug\Apoteka.GlavnaZaposleni.resources
+C:\Users\Mihajlo\Documents\Mihajlo\4\Baze podataka\Apoteka\obj\Debug\Apoteka.NovaKartica.resources
+C:\Users\Mihajlo\Documents\Mihajlo\4\Baze podataka\Apoteka\obj\Debug\Apoteka.PodaciKupac.resources
+C:\Users\Mihajlo\Documents\Mihajlo\4\Baze podataka\Apoteka\obj\Debug\Apoteka.PodaciZaposleni.resources
+C:\Users\Mihajlo\Documents\Mihajlo\4\Baze podataka\Apoteka\obj\Debug\Apoteka.Proizvodi.resources
+C:\Users\Mihajlo\Documents\Mihajlo\4\Baze podataka\Apoteka\obj\Debug\Apoteka.Lokali.resources
+C:\Users\Mihajlo\Documents\Mihajlo\4\Baze podataka\Apoteka\obj\Debug\Apoteka.Magacin.resources
+C:\Users\Mihajlo\Documents\Mihajlo\4\Baze podataka\Apoteka\obj\Debug\Apoteka.Kartice.resources
+C:\Users\Mihajlo\Documents\Mihajlo\4\Baze podataka\Apoteka\obj\Debug\Apoteka.PregledZaposleni.resources
+C:\Users\Mihajlo\Documents\Mihajlo\4\Baze podataka\Apoteka\obj\Debug\Apoteka.Dostave.resources
+C:\Users\Mihajlo\Documents\Mihajlo\4\Baze podataka\Apoteka\obj\Debug\Apoteka.NovZaposleni.resources
+C:\Users\Mihajlo\Documents\Mihajlo\4\Baze podataka\Apoteka\obj\Debug\Apoteka.Transakcije.resources
+C:\Users\Mihajlo\Documents\Mihajlo\4\Baze podataka\Apoteka\obj\Debug\Apoteka.NovaDostava.resources
+C:\Users\Mihajlo\Documents\Mihajlo\4\Baze podataka\Apoteka\obj\Debug\Apoteka.NovaTransakcija.resources
+C:\Users\Ucenik\Desktop\Apoteka\bin\Debug\Apoteka.exe.config
+C:\Users\Ucenik\Desktop\Apoteka\bin\Debug\Apoteka.exe
+C:\Users\Ucenik\Desktop\Apoteka\bin\Debug\Apoteka.pdb
+C:\Users\Ucenik\Desktop\Apoteka\obj\Debug\Apoteka.Dostave.resources
+C:\Users\Ucenik\Desktop\Apoteka\obj\Debug\Apoteka.GlavnaKupac.resources
+C:\Users\Ucenik\Desktop\Apoteka\obj\Debug\Apoteka.GlavnaZaposleni.resources
+C:\Users\Ucenik\Desktop\Apoteka\obj\Debug\Apoteka.Kartice.resources
+C:\Users\Ucenik\Desktop\Apoteka\obj\Debug\Apoteka.Lokali.resources
+C:\Users\Ucenik\Desktop\Apoteka\obj\Debug\Apoteka.Magacin.resources
+C:\Users\Ucenik\Desktop\Apoteka\obj\Debug\Apoteka.NapraviNalog.resources
+C:\Users\Ucenik\Desktop\Apoteka\obj\Debug\Apoteka.NovaDostava.resources
+C:\Users\Ucenik\Desktop\Apoteka\obj\Debug\Apoteka.NovaKartica.resources
+C:\Users\Ucenik\Desktop\Apoteka\obj\Debug\Apoteka.NovaTransakcija.resources
+C:\Users\Ucenik\Desktop\Apoteka\obj\Debug\Apoteka.NovZaposleni.resources
+C:\Users\Ucenik\Desktop\Apoteka\obj\Debug\Apoteka.PodaciKupac.resources
+C:\Users\Ucenik\Desktop\Apoteka\obj\Debug\Apoteka.PodaciZaposleni.resources
+C:\Users\Ucenik\Desktop\Apoteka\obj\Debug\Apoteka.PregledZaposleni.resources
+C:\Users\Ucenik\Desktop\Apoteka\obj\Debug\Apoteka.Pretraga.resources
+C:\Users\Ucenik\Desktop\Apoteka\obj\Debug\Apoteka.Proizvodi.resources
+C:\Users\Ucenik\Desktop\Apoteka\obj\Debug\Apoteka.Promeni.resources
+C:\Users\Ucenik\Desktop\Apoteka\obj\Debug\Apoteka.Properties.Resources.resources
+C:\Users\Ucenik\Desktop\Apoteka\obj\Debug\Apoteka.Transakcije.resources
+C:\Users\Ucenik\Desktop\Apoteka\obj\Debug\Apoteka.Ulogovanje.resources
+C:\Users\Ucenik\Desktop\Apoteka\obj\Debug\Apoteka.csproj.GenerateResource.cache
+C:\Users\Ucenik\Desktop\Apoteka\obj\Debug\Apoteka.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Desktop\Apoteka\obj\Debug\Apoteka.exe
+C:\Users\Ucenik\Desktop\Apoteka\obj\Debug\Apoteka.pdb
+C:\Users\ucenik\Desktop\Apoteka\obj\Debug\Apoteka.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\Apoteka\obj\Debug\Apoteka.csproj.SuggestedBindingRedirects.cache
